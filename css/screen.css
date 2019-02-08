@@ -2,8 +2,7 @@
 html { overflow-y: scroll; height:100%; }
 body
 {
-  FONT-WEIGHT: normal;
-  font-size: 13px;
+  font: 12px normal Segoe UI, sans-serif;
   COLOR: #000000;
 }
 div.card 
