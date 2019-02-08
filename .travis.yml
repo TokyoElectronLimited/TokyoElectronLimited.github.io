@@ -2,13 +2,13 @@ language: java
 # blocklist
 branches:
   except:
-  - master 
   - development 
 
 # safelist
 branches:
   only:
   - stable
+  - master
 deploy:
   provider: pages
   skip-cleanup: true
