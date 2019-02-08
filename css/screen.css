@@ -6,3 +6,99 @@ body
   font-size: 13px;
   COLOR: #000000;
 }
+
+div.cardButtonOrange
+{
+  border-collapse:collapse;   
+  border-style:solid;
+  border-width:1px  !important;
+  border-color:#FF6A13;
+  color:#FF6A13;
+  font-size:1em;
+  background: #FFFFFF;
+  padding: 5px;
+  font-weight:bold;
+  text-align: center;
+  width: 150px;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+}
+
+div.cardButtonOrange:hover
+{
+  background:#FF6A13;
+  color: #FFFFFF;
+}
+
+div.cardButtonTeal
+{
+  border-collapse:collapse;   
+  border-style:solid;
+  border-width:1px  !important;
+  border-color:#00B2A9;
+  color:#FFFFFF;
+  font-size:1em;
+  background: #00B2A9;
+  padding: 5px;
+  font-weight:bold;
+  text-align: center;
+  width: 150px;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+}
+
+div.cardButtonTeal:hover
+{
+  background:#FFFFFF;
+  color: #00B2A9;
+}
+
+div.cardButtonGreen
+{
+  border-collapse:collapse;   
+  border-style:solid;
+  border-width:1px  !important;
+  border-color:#78BE20;
+  color:#FFFFFF;
+  font-size:1em;
+  background: #78BE20;
+  padding: 5px;
+  font-weight:bold;
+  text-align: center;
+  width: 150px;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+}
+
+div.cardButtonGreen:hover
+{
+  background:#FFFFFF;
+  color: #78BE20;
+}
+
+div.cardButtonCyan
+{
+  border-collapse:collapse;   
+  border-style:solid;
+  border-width:1px  !important;
+  border-color:#00A9E0;
+  color:#FFFFFF;
+  font-size:1em;
+  background: #00A9E0;
+  padding: 5px;
+  font-weight:bold;
+  text-align: center;
+  width: 150px;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+}
+
+div.cardButtonCyan:hover
+{
+  background:#FFFFFF;
+  color: #00A9E0;
+}
