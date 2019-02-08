@@ -6,7 +6,16 @@ body
   font-size: 13px;
   COLOR: #000000;
 }
-
+div.card 
+{
+width:170px;
+float:left;
+margin-right: 50px;
+}
+div.card a
+{
+text-decoration:none;
+}
 div.cardButtonOrange
 {
   border-collapse:collapse;   
@@ -14,7 +23,7 @@ div.cardButtonOrange
   border-width:1px  !important;
   border-color:#FF6A13;
   color:#FF6A13;
-  font-size:1em;
+  font-size:1.2em;
   background: #FFFFFF;
   padding: 5px;
   font-weight:bold;
@@ -38,7 +47,7 @@ div.cardButtonTeal
   border-width:1px  !important;
   border-color:#00B2A9;
   color:#FFFFFF;
-  font-size:1em;
+  font-size:1.2em;
   background: #00B2A9;
   padding: 5px;
   font-weight:bold;
@@ -62,7 +71,7 @@ div.cardButtonGreen
   border-width:1px  !important;
   border-color:#78BE20;
   color:#FFFFFF;
-  font-size:1em;
+  font-size:1.2em;
   background: #78BE20;
   padding: 5px;
   font-weight:bold;
@@ -86,7 +95,7 @@ div.cardButtonCyan
   border-width:1px  !important;
   border-color:#00A9E0;
   color:#FFFFFF;
-  font-size:1em;
+  font-size:1.2em;
   background: #00A9E0;
   padding: 5px;
   font-weight:bold;
