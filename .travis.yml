@@ -1,3 +1,14 @@
+language: java
+# blocklist
+branches:
+  except:
+  - master 
+  - development 
+
+# safelist
+branches:
+  only:
+  - stable
 deploy:
   provider: pages
   skip-cleanup: true
